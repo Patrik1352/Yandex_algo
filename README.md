@@ -4,6 +4,8 @@
 <img src="https://avatars.mds.yandex.net/get-lpc/10116223/72f714f1-ded1-4fe1-afe0-bd436bbcb279/width_1280_q70" width="200" >
 </center>
 
+Задачи были достаточно сложные, как сказал лектор на алго собесах в Яндекс задачи гораздо проще.
+
 Домашние задания распределены по темам:
 
 - [Сложность, тестирование, особые случаи](https://github.com/Patrik1352/Yandex_algo/tree/main/1)
